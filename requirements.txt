@@ -1,2 +1,7 @@
+PyMuPDF
+Pillow
+parquet
+chromadb
+torch
+transformers
 langchain
-openai
